@@ -1,4 +1,4 @@
-This fork is not used anymore, see the copied repository RainerWinkler/COVID-19-plot instead
+This fork is not used anymore, see the copied repository [RainerWinkler/COVID-19-plot](https://github.com/RainerWinkler/COVID-19-plot) instead
 
 # covid19count
 Plots number of confirmed COVID-19 cases for countries worldwide. The data is pulled from 	
